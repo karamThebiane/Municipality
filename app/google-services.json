@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380367070436",
+    "project_id": "municipality-dd1bd",
+    "storage_bucket": "municipality-dd1bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380367070436:android:64ea013254295098c838f1",
+        "android_client_info": {
+          "package_name": "com.karam.municipality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380367070436-s54qp4a50vtaf8h4e07s6hdn7l5n1ktv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWFD4jBPNcAeKeHqlrzYpC6M5G60-4jJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380367070436-s54qp4a50vtaf8h4e07s6hdn7l5n1ktv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
